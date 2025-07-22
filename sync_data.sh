@@ -1,5 +1,4 @@
 #!/bin/bash
-nginx -c $PWD/nginx.conf
 mkdir -p ./data
 
 # 生成校验和文件
